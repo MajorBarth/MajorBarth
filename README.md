@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MajorBarth
+- 👋 Hi, I’m @EbukaOkparauzoma
 - 👀 I’m interested in cloud engineering and fullstack development
 - 🌱 I’m currently learning frontend and cloud engineering
 - 💞️ I’m looking to collaborate on projects with likeminds
